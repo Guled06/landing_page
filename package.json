@@ -1,5 +1,5 @@
 {
-  "homepage": "https://guled06.github.io/landing_page/",
+  "homepage": "https://guled06.github.io/somali_youth_mentorship/",
   "name": "open-react-template",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Guled06/landing_page"
+    "url": "https://github.com/Guled06/somali_youth_mentorship"
   },
   "scripts": {
     "start": "react-scripts start",
